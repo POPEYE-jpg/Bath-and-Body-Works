@@ -60,14 +60,14 @@ This is the landing page of our best which is high engaging.
 
 ## Our Team Members :❤️
 
-[Dheeraj Singh](https://github.com/POPEYE-jpg)
+- [Dheeraj Singh](https://github.com/POPEYE-jpg)
 
-[Humam](https://github.com/humamul)
+- [Humam](https://github.com/humamul)
 
-[Sanjay Kumar Verma](https://github.com/sanjaykumarverma01)
+- [Sanjay Kumar Verma](https://github.com/sanjaykumarverma01)
 
-[Aman Trivedi](https://github.com/atrivedi8988)
+- [Aman Trivedi](https://github.com/atrivedi8988)
 
-[Sagar Sandbhor](https://github.com/Sagarsandbhor17)
+- [Sagar Sandbhor](https://github.com/Sagarsandbhor17)
 
-[Namdev Patil](https://github.com/namdevmanoharpatil)
+- [Namdev Patil](https://github.com/namdevmanoharpatil)
