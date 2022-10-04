@@ -2,7 +2,7 @@
 
 This is our project for Unit-3 Construct week at Masai Shcool. Our main objective is to complete all main functionality of this e-commerce website, such as Login/Signup, Add/Buy and filter the product. We have completed this project in 5 days.
 
-- Click [here](https://cool-coderss.netlify.app/index.html) to see preview of our project.
+- Click [here](https://cool-coderss.netlify.app/) to see preview of our project.
 
 Bathandbodyworks.com is an E-commerce website where a user can find different acessories and daily essential for men and women.
 
